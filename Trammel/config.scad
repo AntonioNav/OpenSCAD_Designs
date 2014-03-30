@@ -1,11 +1,12 @@
 /* Author: Antonio Navarro
  * License: LGPLv2.1
  * 
- *
- *
+ * This is my desing of a Trammel of Archimedes in OpenSCAD
+ * Feel free to modify.
  *
  * Configuration file
  */
+
 $fn=50;
 
 /****** Slider parameters *****/

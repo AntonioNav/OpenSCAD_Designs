@@ -1,12 +1,12 @@
 /* Author: Antonio Navarro
  * License: LGPLv2.1
  * 
+ * This is my desing of a Trammel of Archimedes in OpenSCAD
+ * Feel free to modify.
+ * 
+ * Edit 'config.scad' to change parameters.
  *
- *
- *
- *
- *
- *
+ * Base desing
  *
  */
 
