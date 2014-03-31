@@ -25,5 +25,7 @@ base_height=slider_height;
 
 /****** arm parameters *****/
 arm_thickness=3;
-arm_lenght=base_lenght;
+arm_lenght=base_lenght+30;
+ext_width=10;
+arm_hole=slider_axe+ext_width;
 arm_width=top_width;
